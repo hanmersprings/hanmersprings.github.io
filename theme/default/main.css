@@ -1,0 +1,14 @@
+.no-margin {
+    margin: 0;
+}
+.no-gutter > [class*='col-'] { //add class="no-gutter" to row
+    padding-right:0;
+    padding-left:0;
+}
+
+h4 {
+    background: #999;
+    font-size: 1.2em;
+    padding: 4px 0 4px 15px;
+    text-transform: capitalize;
+}
