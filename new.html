@@ -30,7 +30,6 @@
         </div>
         <div class="navbar-collapse collapse" id="navbar">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="/">Home</a></li>
                 <li class="dropdown">
                     <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Visitor Information<span class="caret"></span></a>
                     <ul role="menu" class="dropdown-menu">
@@ -41,9 +40,38 @@
                         <li><a href="/information/useful-information.html">Useful Information</a></li>
                     </ul>
                 </li>
-                <li><a href="/activities.html">What to do</a></li>
-                <li><a href="/accommodation.html">Where to stay</a></li>
-                <li><a href="/food-drink.html">Where to eat &amp; drink</a></li>
+                <li class="dropdown">
+                    <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">What to do<span class="caret"></span></a>
+                    <ul role="menu" class="dropdown-menu">
+                        <li><a href="/activities/adventure.html">Adventure</a></li>
+                        <li><a href="/activities/arts.html">Arts</a></li>
+                        <li><a href="/activities/biking.html">Biking</a></li>
+                        <li><a href="/activities/fishing-hunting.html">Fishing &amp; Hunting</a></li>
+                        <li><a href="/activities/relaxing.html">Relaxing</a></li>
+                        <li><a href="/activities/shopping.html">Shopping</a></li>
+                        <li><a href="/activities/wintersport.html">Winter Sports</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Where to stay<span class="caret"></span></a>
+                    <ul role="menu" class="dropdown-menu">
+                        <li><a href="/accommodation/hotels-resorts.html">Hotels &amp; Resorts</a></li>
+                        <li><a href="/accommodation/motels.html">Motels</a></li>
+                        <li><a href="/accommodation/backpackers.html">Backpackers &amp; Hostels</a></li>
+                        <li><a href="/accommodation/holidayparks-campsites.html">Holiday Parks &amps Campsites</a></li>
+                        <li><a href="/accommodation/retreats-lodges.html">Luxury Retreats &amp; Lodges</a></li>
+                        <li><a href="/accommodation/holiday-homes.html">Holiday Homes</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Where to eat &amp; drink<span class="caret"></span></a>
+                    <ul role="menu" class="dropdown-menu">
+                        <li><a href="/dining/restaurants">Restaurants</a></li>
+                        <li><a href="/dining/cafes">Cafés</a></li>
+                        <li><a href="/dining/pubs">Pubs</a></li>
+                        <li><a href="/dining/takeaways">Takeaways</a></li>
+                    </ul>
+                </li>
                 <li><a href="/deals.html">Deals</a></li>
                 <li><a href="/contact.html">Contact Us</a></li>
             </ul>
@@ -53,31 +81,131 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-8">
-            <img src="http://placehold.it/750x300" alt="..." class="img-responsive img-thumbnail">
+        <div class="col-md-8 hidden-xs hidden-sm">
+            <img src="http://placehold.it/750x300" alt="...">
         </div>
         <div class="col-md-4">
-            <h4 class="no-margin">Newsletter</h4>
+            <form class="form-horizontal">
+                <fieldset>
+
+                    <!-- Form Name -->
+                    <legend>Newsletter</legend>
+
+                    <!-- Text input-->
+                    <div class="form-group">
+                        <label class="col-md-4 control-label" for="name">Name</label>
+                        <div class="col-md-8">
+                            <input id="name" name="name" placeholder="Your name" class="form-control input-md" required="" type="text">
+
+                        </div>
+                    </div>
+
+                    <!-- Text input-->
+                    <div class="form-group">
+                        <label class="col-md-4 control-label" for="email">Email</label>
+                        <div class="col-md-8">
+                            <input id="email" name="email" placeholder="your@email.com" class="form-control input-md" required="" type="text">
+
+                        </div>
+                    </div>
+
+                    <!-- Button -->
+                    <div class="form-group">
+                        <label class="col-md-4 control-label" for="submit"></label>
+                        <div class="col-md-4">
+                            <button id="submit" name="submit" class="btn btn-default">Subscribe</button>
+                        </div>
+                    </div>
+
+                </fieldset>
+            </form>
         </div>
     </div>
 
     <div class="row">
         <div class="col-md-7">
-            <h4>Browse By Category:</h4>
-            <ul class="row">
-                <li class="col-md-3">Row1</li>
-                <li class="col-md-3">Row2</li>
-                <li class="col-md-3">Row3</li>
-                <li class="col-md-3">Row4</li>
-                <li class="col-md-3">Row5</li>
-            </ul>
-            <h4>Featured Listings:</h4>
-            <h4>Featured Deals:</h4>
+            <h4>Something for Everyone:</h4>
+            <div class="row">
+                <div class="col-md-3"><h5>Adventure</h5><img src="http://placehold.it/200x120" alt="..." class="img-responsive"></div>
+                <div class="col-md-3"><h5>Arts</h5><img src="http://placehold.it/200x120" alt="..." class="img-responsive"></div>
+                <div class="col-md-3"><h5>Biking</h5><img src="http://placehold.it/200x120" alt="..." class="img-responsive"></div>
+                <div class="col-md-3"><h5>Fishing & Hunting</h5><img src="http://placehold.it/200x120" alt="..." class="img-responsive"></div>
+                <div class="col-md-3"><h5>Relaxing</h5><img src="http://placehold.it/200x120" alt="..." class="img-responsive"></div>
+                <div class="col-md-3"><h5>Shopping</h5><img src="http://placehold.it/200x120" alt="..." class="img-responsive"></div>
+                <div class="col-md-3"><h5>Winter Sports</h5><img src="http://placehold.it/200x120" alt="..." class="img-responsive"></div>
+                <div class="col-md-3"><h5>Everything Else</h5><img src="http://placehold.it/200x120" alt="..." class="img-responsive"></div>
+            </div>
+
+            <h4 class="clear">Featured Listings:</h4>
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>Listing Title</h5>
+                    <img src="http://placehold.it/350x100" alt="..." class="img-responsive">
+                    <p>Just a brief description&hellip;</p>
+                </div>
+                <div class="col-md-6">
+                    <h5>Listing Title</h5>
+                    <img src="http://placehold.it/350x100" alt="..." class="img-responsive">
+                    <p>Just a brief description&hellip;</p>
+                </div>
+            </div>
+            <div class="row clear">
+                <div class="col-md-6">
+                    <h5>Listing Title</h5>
+                    <img src="http://placehold.it/350x100" alt="..." class="img-responsive">
+                    <p>Just a brief description&hellip;</p>
+                </div>
+                <div class="col-md-6">
+                    <h5>Listing Title</h5>
+                    <img src="http://placehold.it/350x100" alt="..." class="img-responsive">
+                    <p>Just a brief description&hellip;</p>
+                </div>
+            </div>
+            <h4>Featured Deals: <span>view all</span></h4>
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="http://placehold.it/400x400" alt="..." class="img-responsive">
+                </div>
+                <div class="col-md-4">
+                    <img src="http://placehold.it/400x400" alt="..." class="img-responsive">
+                </div>
+                <div class="col-md-4">
+                    <img src="http://placehold.it/400x400" alt="..." class="img-responsive">
+                </div>
+            </div>
         </div>
         <div class="col-md-5">
-            <h4>Recent Reviews:</h4>
-            <h4>Upcoming Events:</h4>
+            <h4>Upcoming Events: <span>view all</span></h4>
+            <h4>Recent Reviews: <span>view all</span></h4>
+            <div class="row" id="sidebar-reviews">
+                <div class="col-md-12">
+                    <img src="http://placehold.it/80x80" alt="...">
+                    <h5>The Powerhouse Café</h5>
+                    <p>&#9734; &#9734; &#9734; &#9734; &#9734;</p>
+                    <p><em>"Fantastic food!"</em></p>
+                </div>
+
+            </div>
+
         </div>
+    </div>
+
+    <div class="row footer hidden-xs hidden-sm">
+        <ul class="list-inline col-md-9">
+            <li class="divider-vertical">Home</li>
+            <li class="divider-vertical">Information</li>
+            <li class="divider-vertical">Activities</li>
+            <li class="divider-vertical">Accommodation</li>
+            <li class="divider-vertical">Eat &amp; Drink</li>
+            <li class="divider-vertical">Deals</li>
+            <li>Contact</li>
+        </ul>
+        <ul class="list-inline col-md-3">
+            <li>Facebook</li>
+            <li>Youtube</li>
+            <li>Twitter</li>
+        </ul>
+        <p>Copyright &copy; 2015 Hanmer Springs. All rights reserved. | Terms and Conditions | Privacy Policy</p>
     </div>
 
 </div>
