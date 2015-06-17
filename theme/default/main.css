@@ -42,3 +42,16 @@ h4 {
     padding: 0;
     margin: 0;
 }
+#sidebar-reviews div,
+#sidebar-events div {
+    margin-bottom: 0.5em;
+}
+
+#sidebar-events h5,
+#sidebar-events img {
+
+}
+
+.festival {
+    color: green;
+}
