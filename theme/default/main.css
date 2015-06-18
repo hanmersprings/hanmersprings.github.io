@@ -10,6 +10,15 @@ body {
     background: #2D2D2D;
 }
 
+h1.navbar-brand {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2.5em;
+    margin: 0 0 0.25em 0;
+}
+    h1.navbar-brand a:hover{
+        text-decoration: none;
+    }
+
 h4 {
     background: #2D2D2D;
     border-left: 4px solid #12A8C9;
@@ -30,7 +39,8 @@ h5 {
     white-space: nowrap;
 }
 
-#categories h5 {
+#categories h5,
+.featuredlistings h5 {
     background: #ededed none repeat scroll 0 0;
     margin-bottom: 0;
     padding: 0.25em;
@@ -58,7 +68,8 @@ h5 {
     border-right: 1px solid #F2F2F2;
 }
 
-#sidebar-reviews img {
+#sidebar-reviews img,
+#sidebar-events img {
     float: left;
     margin: 0 0.5em 0 0;
 }
@@ -71,15 +82,32 @@ h5 {
     margin-bottom: 0.5em;
 }
 
-#sidebar-events h5,
-#sidebar-events img {
-
+#sidebar-events p {
+    margin-bottom: 0.1em;
+}
+#sidebar-events strong {
+    text-decoration: underline;
 }
 
 .festival {
     color: green;
 }
+.health-wellbeing {
+    color: blueviolet;
+}
+.sports {
+    color: purple;
+}
 
 .dropdown-menu {
     border: none;
+}
+
+#social-icons {
+    font-size: 1.3em;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .open > a {
+    border-left: 4px solid #12A8C9;
+    padding-left: 11px;
 }

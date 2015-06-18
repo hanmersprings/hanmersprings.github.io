@@ -11,14 +11,20 @@
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
 
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
     <!-- Default Main Theme -->
     <link rel="stylesheet" href="theme/default/main.css">
+    <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
 
 </head>
 <body>
 
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
+        <div class="col-md-12">
+            <h1 class="navbar-brand"><a href="/">Hanmer Springs, New Zealand</a></h1>
+        </div>
         <div class="navbar-header">
             <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
                 <span class="sr-only">Toggle navigation</span>
@@ -26,11 +32,10 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="#" class="navbar-brand">Hanmer Springs</a>
         </div>
         <div class="navbar-collapse collapse" id="navbar">
             <ul class="nav navbar-nav">
-                <li class="dropdown">
+                <li class="dropdown open">
                     <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Visitor Information<span class="caret"></span></a>
                     <ul role="menu" class="dropdown-menu">
                         <li><a href="/information/about.html">About Hanmer</a></li>
@@ -72,7 +77,13 @@
                         <li><a href="/dining/takeaways">Takeaways</a></li>
                     </ul>
                 </li>
-                <li><a href="/deals.html">Deals</a></li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right hidden-xs hidden-sm" id="social-icons">
+                <li><a href="//www.facebook.com/HanmerSpringsVillage" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="//twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=hanmerspringsnz" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="./"><i class="fa fa-google-plus"></i></a></li>
+                <li><a href="//www.youtube.com/channel/UCXUU8MTtbf3UhUPEUJMk1Eg?sub_confirmation=1" target="_blank"><i class="fa fa-youtube"></i></a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>
@@ -106,27 +117,27 @@
             </div>
 
             <h4 class="clear">Featured Listings:</h4>
-            <div class="row">
+            <div class="row featuredlistings">
                 <div class="col-md-6">
-                    <h5>Listing Title</h5>
-                    <img src="http://placehold.it/350x100" alt="..." class="img-responsive">
-                    <p>Just a brief description&hellip;</p>
+                    <h5>Scarborough Lodge</h5>
+                    <img src="media/images/thumbnails/350x150/scarboroughlodge.jpg" alt="Scarborough Lodge, Hanmer Springs" class="img-responsive">
+                    <p>Couples only retreat located only 3mins walk from the Thermal Pools.</p>
                 </div>
                 <div class="col-md-6">
-                    <h5>Listing Title</h5>
-                    <img src="http://placehold.it/350x100" alt="..." class="img-responsive">
-                    <p>Just a brief description&hellip;</p>
+                    <h5>Hanmer Tours &amp; Shuttles</h5>
+                    <img src="media/images/thumbnails/350x150/ShuttleBus.jpg" alt="Shuttle Bus" class="img-responsive">
+                    <p>Daily transport between Hanmer Springs and Christchurch.</p>
                 </div>
             </div>
-            <div class="row clear">
+            <div class="row clear featuredlistings">
                 <div class="col-md-6">
                     <h5>Listing Title</h5>
-                    <img src="http://placehold.it/350x100" alt="..." class="img-responsive">
+                    <img src="http://placehold.it/350x150" alt="..." class="img-responsive">
                     <p>Just a brief description&hellip;</p>
                 </div>
                 <div class="col-md-6">
                     <h5>Listing Title</h5>
-                    <img src="http://placehold.it/350x100" alt="..." class="img-responsive">
+                    <img src="http://placehold.it/350x150" alt="..." class="img-responsive">
                     <p>Just a brief description&hellip;</p>
                 </div>
             </div>
@@ -147,37 +158,46 @@
             <h4>Upcoming Events: <span>view all</span></h4>
             <div class="row" id="sidebar-events">
                 <div class="col-md-12">
-                    <h3>&#9832; Alpine Summer Film Festival</h3>
-                    <h5><span class="festival">Festival</span> - Hosted by <strong>Hanmer Springs Village</strong></h5>
-                    <img src="http://placehold.it/160x80" alt="...">
+                    <h3>&#9832; Hanmer Springs Wellbeing Retreat</h3>
+                    <h5><span class="health-wellbeing">Health &amp; Wellbeing</span> - Hosted by <strong>Tea Retreats &amp; Hanmer Salsa</strong></h5>
+                    <img src="media/images/thumbnails/160x80/event-wellbeing.jpg" alt="Three woman in a yoga pose" class="img-thumbnail">
+                    <p>27<sup>th</sup> June - Braemar Lodge</p>
+                    <p>Tickets from $145.00</p>
+                    <p><a href="#">Find out more</a></p>
                 </div>
                 <div class="col-md-12">
-                    <h3>&#9832; International Food & Wine Festival</h3>
-                    <h5><span class="festival">Festival</span> - Hosted by <strong>Hanmer Springs Village</strong></h5>
-                    <img src="http://placehold.it/160x80" alt="...">
+                    <h3>&#9731; Hanmer Winter Salsa Festival</h3>
+                    <h5><span class="festival">Festival</span> - Hosted by <strong>Hanmer Salsa</strong></h5>
+                    <img src="media/images/thumbnails/160x80/event-wintersalsa.jpg" alt="Group of people learning to salsa dance" class="img-thumbnail">
+                    <p>3<sup>rd</sup> July - Memorial Hall</p>
+                    <p>FREE sessions available</p>
+                    <p><a href="#">Find out more</a></p>
                 </div>
                 <div class="col-md-12">
-                    <h3>&#9832; International Food & Wine Festival</h3>
-                    <h5><span class="festival">Festival</span> - Hosted by <strong>Hanmer Springs Village</strong></h5>
-                    <img src="http://placehold.it/160x80" alt="...">
+                    <h3>&#9832; The Molesworth Run</h3>
+                    <h5><span class="sports">Running</span> - Hosted by <strong>Marlborough Harriers</strong></h5>
+                    <img src="media/images/thumbnails/160x80/event-molesworthrun.jpg" alt="Group of people running on gravel road" class="img-thumbnail">
+                    <p>21<sup>st</sup> November - Molesworth Station</p>
+                    <p>Tickets from $145.00</p>
+                    <p><a href="#">Find out more</a></p>
                 </div>
             </div>
-            <h4>Recent Reviews: <span>view all</span></h4>
+            <h4>Recent Reviews:</h4>
             <div class="row" id="sidebar-reviews">
                 <div class="col-md-12">
-                    <img src="http://placehold.it/80x80" alt="...">
+                    <img src="http://placehold.it/80x80" alt="..." class="img-thumbnail">
                     <h5>The Powerhouse Café</h5>
                     <p>&#9733; &#9733; &#9733; &#9733; &#9734;</p>
                     <p><em>"Fantastic food!"</em></p>
                 </div>
                 <div class="col-md-12">
-                    <img src="http://placehold.it/80x80" alt="...">
+                    <img src="http://placehold.it/80x80" alt="..." class="img-thumbnail">
                     <h5>The Powerhouse Café</h5>
                     <p>&#9733; &#9733; &#9733; &#9734; &#9734;</p>
                     <p><em>"Fantastic food!"</em></p>
                 </div>
                 <div class="col-md-12">
-                    <img src="http://placehold.it/80x80" alt="...">
+                    <img src="http://placehold.it/80x80" alt="..." class="img-thumbnail">
                     <h5>The Powerhouse Café</h5>
                     <p>&#9733; &#9733; &#9733; &#9734; &#9734;</p>
                     <p><em>"Fantastic food!"</em></p>
@@ -189,7 +209,7 @@
     </div>
 
     <div class="row footer hidden-xs hidden-sm">
-        <ul class="list-inline col-md-9">
+        <ul class="list-inline col-md-12">
             <li class="divider-vertical">Home</li>
             <li class="divider-vertical">Information</li>
             <li class="divider-vertical">Activities</li>
@@ -197,11 +217,6 @@
             <li class="divider-vertical">Eat &amp; Drink</li>
             <li class="divider-vertical">Deals</li>
             <li>Contact</li>
-        </ul>
-        <ul class="list-inline col-md-3">
-            <li>Facebook</li>
-            <li>Youtube</li>
-            <li>Twitter</li>
         </ul>
         <p>Copyright &copy; 2015 Hanmer Springs. All rights reserved. | Terms and Conditions | Privacy Policy</p>
     </div>
@@ -212,5 +227,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <!-- Compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-558339a45685912b" async="async"></script>
+
 </body>
 </html>
