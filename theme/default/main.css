@@ -7,7 +7,7 @@
 }
 
 body {
-    background: #ededed;
+    background: #2D2D2D;
 }
 
 h4 {
@@ -78,4 +78,8 @@ h5 {
 
 .festival {
     color: green;
+}
+
+.dropdown-menu {
+    border: none;
 }
