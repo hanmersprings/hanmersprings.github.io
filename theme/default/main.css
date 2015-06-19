@@ -69,16 +69,23 @@ h5 {
 }
 
 #sidebar-reviews img,
-#sidebar-events img {
+#sidebar-events img,
+#sidebar-guides i {
+    color: #337ab7;
     float: left;
     margin: 0 0.5em 0 0;
 }
+#sidebar-guides i {
+    font-size: 4.0em;
+}
+
 #sidebar-reviews h5 {
     padding: 0;
     margin: 0;
 }
 #sidebar-reviews div,
-#sidebar-events div {
+#sidebar-events div,
+#sidebar-guides div {
     margin-bottom: 0.5em;
 }
 
@@ -110,4 +117,10 @@ h5 {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .open > a {
     border-left: 4px solid #12A8C9;
     padding-left: 11px;
+}
+
+/* WEATHER */
+.wi {
+    font-size: 2em;
+    margin-top: 0.5em;
 }
