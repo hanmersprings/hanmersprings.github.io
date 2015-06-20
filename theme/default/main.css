@@ -129,3 +129,41 @@ h5 {
     font-size: 2em;
     margin-top: 0.5em;
 }
+
+/* Listing page */
+#map-container { height: 150px }
+
+.listingpage h1 {
+    font-size: 2.25em;
+    margin-bottom: 0;
+}
+.listingpage h2 {
+    font-size: 1.75em;
+    margin: 0;
+}
+
+.listingpage p strong {
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.breadcrumb {
+    margin-bottom: 0;
+}
+
+.gallery-thumbs img {
+    float: left;
+    margin: 5px 5px 0 0;
+}
+    .gallery-thumbs img.last {
+        margin-right: 0;
+    }
+
+.top-margin {
+    margin-top: 0.6em;
+}
+
+.center {
+    text-align: center;
+    display: block;
+}
