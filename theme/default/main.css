@@ -142,7 +142,7 @@ h5 {
     margin: 0;
 }
 
-.listingpage p strong {
+.listingpage p strong.underline {
     text-decoration: underline;
     font-weight: normal;
 }
@@ -166,4 +166,17 @@ h5 {
 .center {
     text-align: center;
     display: block;
+    margin: 0 auto;
+}
+
+.double {
+    font-size: 2em;
+}
+.triple {
+    font-size: 3em;
+}
+
+.reset {
+    margin: 0.4em 0 0.4em 0;
+    padding: 0;
 }
