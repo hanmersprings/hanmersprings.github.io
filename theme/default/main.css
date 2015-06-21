@@ -1,3 +1,9 @@
+@media (min-width: 768px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+}
+
 .no-margin {
     margin: 0;
 }
@@ -300,4 +306,10 @@ article.accordion section:target h2
 .table-header-rotated th.row-header {
     padding: 0 10px;
     border-bottom: 1px solid #333;
+}
+
+#content-page h4 {
+    background: transparent;
+    color: #333333;
+    margin-top: 2em;
 }
