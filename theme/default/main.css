@@ -325,9 +325,7 @@ div.featured {
     .featured div.row {
         padding: 10px 10px 0 10px;
     }
-        .featured div.row hr {
-            margin: 0;
-        }
+
     .featured span.rating {
         color: #ffffff;
         background: #12a8c9;
