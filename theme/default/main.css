@@ -321,4 +321,5 @@ article.accordion section:target h2
 div.featured {
     border: 1px solid #12A8C9;
     margin: 10px 0;
+    padding: 10px 0;
 }
