@@ -316,3 +316,8 @@ article.accordion section:target h2
     color: #333333;
     margin-top: 2em;
 }
+
+
+div.featured {
+    border: 1px solid #333333;
+}
