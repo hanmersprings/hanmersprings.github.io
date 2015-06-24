@@ -334,3 +334,13 @@ div.featured {
         font-size: 1.2em;
         padding: 10px 20px;
     }
+
+#sidebar-list {
+    background: #dedede;
+}
+    #sidebar-list li {
+        background: #999999;
+        border: 1px solid #333333;
+        padding: 3px;
+        margin-left: 1em;
+    }
