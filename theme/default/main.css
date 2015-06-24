@@ -320,7 +320,7 @@ article.accordion section:target h2
 
 div.featured {
     border: 1px solid #999999;
-    margin: 10px 0;
+    margin: 10px 0 0 0;
     padding: 10px 0;
 }
     .featured span.rating {
