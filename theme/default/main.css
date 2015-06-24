@@ -326,5 +326,6 @@ div.featured {
     .featured span.rating {
         color: #ffffff;
         background: #999999;
+        font-size: 1.2em;
         padding: 10px 20px;
     }
