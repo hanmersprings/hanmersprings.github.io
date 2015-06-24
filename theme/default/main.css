@@ -51,7 +51,7 @@ h3.listing {
     font-size: 1.03em;
     font-weight: normal;
     margin: 0;
-    padding: 5px;
+    padding: 5pxF;
 
 }
 
@@ -356,3 +356,11 @@ div.premium {
 .featured {
     margin-bottom: 1em;
 }
+    .featured h3 {
+        margin-top: 1em;
+        padding: 4px;
+    }
+    .featured p,
+    .featured a.btn {
+        margin-top: 0.5em;
+    }
