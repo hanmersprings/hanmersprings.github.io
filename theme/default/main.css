@@ -7,7 +7,7 @@
 .no-margin {
     margin: 0;
 }
-.no-gutter > [class*='col-'] { //add class="no-gutter" to row
+.no-gutter > [class*='col-'] {
     padding-right:0;
     padding-left:0;
 }
@@ -45,6 +45,15 @@ h4 {
         h4 a:hover {
             color: #fff;
         }
+
+h3.listing {
+    background: #ededed;
+    font-size: 1.03em;
+    font-weight: normal;
+    margin: 0;
+    padding: 7px 0 7px 15px;
+
+}
 
 h5 {
     white-space: nowrap;
@@ -318,26 +327,19 @@ article.accordion section:target h2
 }
 
 
-div.featured {
+div.premium {
+    background: #ededed;
     border: 1px solid #999999;
-    margin: 10px 0 10px 0;
+    margin: 10px 0;
 }
-    .featured div.row {
-        padding: 10px 10px 0 10px;
-    }
-        .featured div.row hr {
-            margin: 0 0 10px 0;
-        }
-    .featured span.rating {
-        color: #ffffff;
-        background: #12a8c9;
-        font-size: 1.2em;
-        padding: 10px 20px;
-    }
-    .featured img {
+    .premium img {
         float: left;
-        margin: 0 0.5em 0 0;
+        margin: 10px 20px 10px 0;
     }
+    .premium h2 {
+        margin: 10px 0 0 0;
+    }
+
 
 #sidebar-list {
     background: #ededed;
@@ -350,3 +352,7 @@ div.featured {
         padding: 3px;
         margin: 4px 8px;
     }
+
+.featured {
+    margin-bottom: 1em;
+}
