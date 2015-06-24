@@ -337,6 +337,7 @@ div.featured {
 
 #sidebar-list {
     background: #ededed;
+    margin-top: -10px;
     padding: 10px;
 }
     #sidebar-list li {
