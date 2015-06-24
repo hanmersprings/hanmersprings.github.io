@@ -336,10 +336,11 @@ div.featured {
     }
 
 #sidebar-list {
-    background: #dedede;
+    background: #ededed;
+    padding: 10px;
 }
     #sidebar-list li {
-        background: #ededed;
+        background: #dedede;
         border: 1px solid #333333;
         padding: 3px;
         margin: 4px 8px;
