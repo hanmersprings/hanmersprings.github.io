@@ -323,7 +323,7 @@ div.featured {
     margin: 10px 0 0 0;
 }
     .featured div.row {
-        padding: 10px 0;
+        padding: 10px;
     }
     .featured span.rating {
         color: #ffffff;
