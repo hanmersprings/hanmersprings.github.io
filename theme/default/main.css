@@ -364,3 +364,8 @@ div.premium {
     .featured a.btn {
         margin-top: 0.5em;
     }
+
+
+#categories img.pull-left {
+    margin-right: 5px;
+}
