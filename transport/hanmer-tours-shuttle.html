@@ -555,15 +555,14 @@
 
     <div class="row footer hidden-xs hidden-sm">
         <ul class="list-inline col-md-12">
-            <li class="divider-vertical">Home</li>
-            <li class="divider-vertical">Information</li>
-            <li class="divider-vertical">Activities</li>
-            <li class="divider-vertical">Accommodation</li>
-            <li class="divider-vertical">Eat &amp; Drink</li>
-            <li class="divider-vertical">Deals</li>
-            <li>Contact</li>
+            <li class="divider-vertical"><a href="/">Home</a></li>
+            <li class="divider-vertical"><a href="/information.html">Information</a></li>
+            <li class="divider-vertical"><a href="/activities.html">Activities</a></li>
+            <li class="divider-vertical"><a href="/accommodation.html">Accommodation</a></li>
+            <li class="divider-vertical"><a href="/dining.html">Eat &amp; Drink</a></li>
+            <li><a href="/contact.html">Contact</a></li>
         </ul>
-        <p>Copyright &copy; 2015 Hanmer Springs. All rights reserved. | Terms and Conditions | Privacy Policy</p>
+        <p>Copyright &copy; 2015 Hanmer Springs. All rights reserved.</p>
     </div>
 
 </div>
@@ -574,58 +573,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-558339a45685912b" async="async"></script>
-<script src="//maps.google.com/maps/api/js?sensor=false"></script>
 
-<script>
-
-    function init_map() {
-        var var_location = new google.maps.LatLng(-42.523954, 172.832897);
-
-        var var_mapoptions = {
-            center: var_location,
-            zoom: 15,
-            mapTypeId: google.maps.MapTypeId.ROADMAP,
-            mapTypeControl: false,
-            panControl:false,
-            rotateControl:false,
-            streetViewControl: false
-            //styles:    [{"featureType":"administrative","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"landscape","elementType":"all","stylers":[{"visibility":"simplified"},{"hue":"#0066ff"},{"saturation":74},{"lightness":100}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"road","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"road.highway","elementType":"all","stylers":[{"visibility":"off"},{"weight":0.6},{"saturation":-85},{"lightness":61}]},{"featureType":"road.highway","elementType":"geometry","stylers":[{"visibility":"on"}]},{"featureType":"road.arterial","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"road.local","elementType":"all","stylers":[{"visibility":"on"}]},{"featureType":"transit","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"water","elementType":"all","stylers":[{"visibility":"simplified"},{"color":"#5f94ff"},{"lightness":26},{"gamma":5.86}]}]
-        };
-
-        var var_marker = new google.maps.Marker({
-            position: var_location,
-            map: var_map,
-            title:"Venice"});
-
-        var var_map = new google.maps.Map(document.getElementById("map-container"),
-                var_mapoptions);
-
-        var contentString =
-                '<div id="infowindow_content">'+
-                '<p><strong>Scarborough Lodge</strong><br>'+
-                '34 Harrogate Street<br>' +
-                'Hanmer Springs<br>'+
-                '</div>';
-
-        var var_infowindow = new google.maps.InfoWindow({
-            content: contentString
-        });
-
-        var var_marker = new google.maps.Marker({
-            position: var_location,
-            map: var_map,
-            title:"Click on marker to see info",
-            maxWidth: 500
-        });
-
-        google.maps.event.addListener(var_marker, 'click', function() {
-            var_infowindow.open(var_map,var_marker);
-        });
-
-    }
-    google.maps.event.addDomListener(window, 'load', init_map);
-
-</script>
 <script>
     $( document ).ready(function() {
         $(window).scrollTop(0)
