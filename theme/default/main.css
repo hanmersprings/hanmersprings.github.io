@@ -12,6 +12,7 @@
     padding-left:0;
 }
 
+
 body {
     background: #2D2D2D;
 }
@@ -53,7 +54,7 @@ h3.listing {
     font-size: 1.03em;
     font-weight: normal;
     margin: 0;
-    padding: 5pxF;
+    padding: 5px;
 
 }
 
