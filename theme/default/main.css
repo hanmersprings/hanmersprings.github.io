@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Kaushan Script';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Kaushan Script'), local('KaushanScript-Regular'), url(http://fonts.gstatic.com/s/kaushanscript/v4/qx1LSqts-NtiKcLw4N03IJsM3FTMmj2kTPH3yX99Yaw.woff2) format('woff2'), url(http://fonts.gstatic.com/s/kaushanscript/v4/qx1LSqts-NtiKcLw4N03ILDH3ri20rYH10B2w3wbVeU.woff) format('woff');
+}
+
+
 @media (min-width: 768px) {
     .dropdown:hover .dropdown-menu {
         display: block;
@@ -99,7 +107,7 @@ h5 {
     margin: 0 0.5em 0 0;
 }
 #sidebar-guides i {
-    font-size: 4.0em;
+    font-size: 4em;
 }
 
 #sidebar-reviews h5 {
@@ -118,7 +126,6 @@ h5 {
 #sidebar-events strong {
     text-decoration: underline;
 }
-
 .festival {
     color: green;
 }
@@ -325,10 +332,9 @@ article.accordion section:target h2
 
 #content-page h4 {
     background: transparent;
-    color: #333333;
+    color: #12A8C9;
     margin-top: 2em;
 }
-
 
 div.premium {
     background: #ededed;
@@ -344,10 +350,12 @@ div.premium {
     }
 
 
-#sidebar-list {
+#sidebar-list,
+.sidebar-content {
     background: #ededed;
     margin-top: -10px;
     padding: 10px;
+
 }
     #sidebar-list li {
         background: #dedede;
@@ -371,4 +379,8 @@ div.premium {
 
 #categories img.pull-left {
     margin-right: 5px;
+}
+
+.package-features li {
+    margin-left: 2em;
 }
