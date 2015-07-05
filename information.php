@@ -35,89 +35,7 @@
 </head>
 <body>
 
-<nav class="navbar navbar-default">
-    <div class="container">
-        <div class="col-md-12">
-            <span class="navbar-brand"><a href="/">Hanmer Springs, New Zealand</a></span>
-        </div>
-        <div class="navbar-header">
-            <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-        </div>
-        <div class="navbar-collapse collapse" id="navbar">
-            <ul class="nav navbar-nav">
-                <li class="dropdown">
-                    <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Visitor Information<span class="caret"></span></a>
-                    <ul role="menu" class="dropdown-menu">
-                        <li><a href="/information/about.php">About Hanmer</a></li>
-                        <li><a href="/information/transport.php">Getting Here &amp; Around</a></li>
-                        <li><a href="/information/climate.php">Seasons &amp; Climate</a></li>
-                        <li><a href="/information/maps-guides.php">Maps &amp; Guides</a></li>
-                        <li><a href="/information/useful-information.php">Useful Information</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">What to do<span class="caret"></span></a>
-                    <ul role="menu" class="dropdown-menu">
-                        <li><a href="/activities/action.php">Action</a></li>
-                        <li><a href="/activities/art-culture-heritage.php">Art, Culture &amp; Heritage</a></li>
-                        <li><a href="/activities/biking-hiking-walking.php">Biking, Hiking &amp; Walking</a></li>
-                        <li><a href="/activities/family-fun-entertainment.php">Family Fun & Entertainment</a></li>
-                        <li><a href="/activities/nature-ecotourism.php">Nature &amp; Ecotourism</a></li>
-                        <li><a href="/activities/sightseeing-tours.php">Sightseeing Tours</a></li>
-                        <li><a href="/activities/spa-wellness.php">Spa &amp; Wellness</a></li>
-                        <li><a href="/activities/sports.php">Sports</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Where to stay<span class="caret"></span></a>
-                    <ul role="menu" class="dropdown-menu">
-                        <li><a href="/accommodation/apartments.php">Apartments</a></li>
-                        <li><a href="/accommodation/backpackers-hostels.php">Backpackers &amp; Hostels</a></li>
-                        <li><a href="/accommodation/bed-breakfast.php">Bed &amp; Breakfast</a></li>
-                        <li><a href="/accommodation/holiday-homes.php">Holiday Homes</a></li>
-                        <li><a href="/accommodation/holiday-parks-campsites.php">Holiday Parks &amp; Campsites</a></li>
-                        <li><a href="/accommodation/hotels-resorts.php">Hotels &amp; Resorts</a></li>
-                        <li><a href="/accommodation/luxury-retreats-lodges.php">Luxury Retreats &amp; Lodges</a></li>
-                        <li><a href="/accommodation/motels.php">Motels</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Where to eat &amp; drink<span class="caret"></span></a>
-                    <ul role="menu" class="dropdown-menu">
-                        <li><a href="/dining/bars.php">Bars</a></li>
-                        <li><a href="/dining/cafes.php">Cafés</a></li>
-                        <li><a href="/dining/restaurants.php">Restaurants</a></li>
-                        <li><a href="/dining/takeaways.php">Takeaways</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Shopping &amp; Services<span class="caret"></span></a>
-                    <ul role="menu" class="dropdown-menu">
-                        <li><a href="/shopping/art-galleries.php">Art Galleries</a></li>
-                        <li><a href="/shopping/books-gifts-souvenirs-crafts.php">Books, Gifts, Souvenirs &amp; Crafts</a></li>
-                        <li><a href="/shopping/clothing.php">Clothing</a></li>
-                        <li><a href="/shopping/food-liquor.php">Food &amp; Liquor</a></li>
-                        <li><a href="/shopping/health-beauty.php">Health &amp; Beauty</a></li>
-                        <li><a href="/shopping/sports-outdoors.php">Sports &amp; Outdoors</a></li>
-                        <li><a href="/shopping/other-services.php">Other Services</a></li>
-                    </ul>
-                </li>
-            </ul>
-
-            <ul class="nav navbar-nav navbar-right hidden-xs hidden-sm" id="social-icons">
-                <li><a href="//www.facebook.com/HanmerSpringsVillage" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="//twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=hanmerspringsnz" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                <!--<li><a href="./"><i class="fa fa-google-plus"></i></a></li>-->
-                <li><a href="//www.youtube.com/channel/UCXUU8MTtbf3UhUPEUJMk1Eg?sub_confirmation=1" target="_blank"><i class="fa fa-youtube"></i></a></li>
-            </ul>
-        </div><!--/.nav-collapse -->
-    </div>
-</nav>
+<?php include('snippets/navigation.html') ?>
 
 <div class="container">
 
@@ -135,28 +53,35 @@
             <div class="row" id="categories">
                 <div class="col-md-12">
                     <h5>About Hanmer Springs</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p>Your introduction to Hanmer Springs. Including information on Hanmer Springs history, and what makes it such a great place to live and visit.</p>
+                    <a href="information/about.php"><img src="media/images/thumbnails/200x120/hanmer-springs-avenue.jpg" alt="Photo of Hanmer Springs Avenue" class="img-responsive pull-left"></a>
+                    <p>First time visit to Hanmer Springs? Or one of our many regular visitors. No matter what, Hanmer Springs always has something new for you to experience.</p>
+                    <p><a href="information/about.php">Your introduction to Hanmer Springs and what makes it such a great place to live and visit.</a></p>
                 </div>
                 <div class="col-md-12">
                     <h5>Getting Here &amp; Around</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p>Plan how to get to Hanmer Springs and how to get around once you are here.</p>
+                    <a href="information/transport.php"><img src="media/images/thumbnails/200x120/hanmer-springs-village-cruiser.jpg" alt="Village Cruisers in Hanmer Springs." class="img-responsive pull-left"></a>
+                    <p>Drive yourself, Hitchhike, catch a bus or even fly. Getting to Hanmer Springs is easy and once you are here there are a few unique options to
+                    help you explore.</p>
+                    <p><a href="information/transport.php">Plan how to get to Hanmer Springs and how to get around once you are here.</a></p>
                 </div>
                 <div class="col-md-12">
                     <h5>Hanmer Springs Weather</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                    <a href="information/weather.php"><img src="media/images/thumbnails/200x120/hanmer-springs-winter.jpg" alt="Photo of Chisholm Park, Hanmer Springs covered in snow." class="img-responsive pull-left"></a>
+                    <p>Hanmer Springs is beautiful all year around. No matter what the season. However, different seasons bring different experiences. Will you be swimming
+                    in our pristine rivers or skiing the slopes of the surrounding mountains?</p>
+                    <p><a href="information/weather.php">View up to date weather info</a></p>
                 </div>
                 <div class="col-md-12">
                     <h5>Maps &amp; Guides</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p>Download and keep maps of Hanmer Springs Village, Forest Walks, Bike Tracks and Shopping Guides.</p>
+                    <a href="information/maps-guides.php"><img src="media/images/thumbnails/200x120/hanmer-springs-map.jpg" alt="Hanmer Springs map." class="img-responsive pull-left"></a>
+                    <p>Mountain biking, Walking, Hiking or even just a shopping trip. We have all the maps and guides to assist you.</p>
+                    <p><a href="information/maps-guides.php">Download and keep maps of Hanmer Springs Village, Forest Walks, Bike Tracks and Shopping Guides.</a></p>
                 </div>
                 <div class="col-md-12">
                     <h5>Useful Information</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    <a href="information/useful-information.php"><img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left"></a>
                     <p>Find out about local banks, emergency services, medical facilities, internet and phone providers and everything else you may need to know while you are here.</p>
+                    <p><a href="information/useful-information.php">Hanmer Springs Directory</a></p>
                 </div>
             </div>
         </div>

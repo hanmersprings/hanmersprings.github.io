@@ -71,7 +71,7 @@
                     <ul role="menu" class="dropdown-menu">
                         <li><a href="/information/about.php">About Hanmer</a></li>
                         <li><a href="/information/transport.php">Getting Here &amp; Around</a></li>
-                        <li><a href="/information/climate.php">Seasons &amp; Climate</a></li>
+                        <li><a href="/information/weather.php">Seasons &amp; Climate</a></li>
                         <li><a href="/information/maps-guides.php">Maps &amp; Guides</a></li>
                         <li><a href="/information/useful-information.php">Useful Information</a></li>
                     </ul>
@@ -143,7 +143,7 @@
                                                         class="img-responsive"></div>
     </div>
     <div class="row">
-        <div class="col-md-7"><h4>Something for Everyone:</h4>
+        <div class="col-md-7"><h4>Something for Everyone at Hanmer Springs:</h4>
 
             <div class="row" id="categories">
                 <div class="col-md-3">

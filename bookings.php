@@ -52,7 +52,7 @@
                     <ul role="menu" class="dropdown-menu">
                         <li><a href="/information/about.php">About Hanmer</a></li>
                         <li><a href="/information/transport.php">Getting Here &amp; Around</a></li>
-                        <li><a href="/information/climate.php">Seasons &amp; Climate</a></li>
+                        <li><a href="/information/weather.php">Seasons &amp; Climate</a></li>
                         <li><a href="/information/maps-guides.php">Maps &amp; Guides</a></li>
                         <li><a href="/information/useful-information.php">Useful Information</a></li>
                     </ul>

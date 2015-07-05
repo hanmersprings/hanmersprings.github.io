@@ -470,7 +470,7 @@
       "item":
       {
         "@id": "http://www.hanmersprings.org.nz/hanmer-tours-shuttle.html",
-        "name": "Hanmer Tours &amp; Shuttles"
+        "name": "Hanmer Tours &amp; Shuttle"
       }
     }
   ]

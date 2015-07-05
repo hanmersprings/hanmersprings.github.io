@@ -59,7 +59,7 @@
         <div class="col-md-3">
             <h4>Book a bus from Christchurch</h4>
             <div class="sidebar-content">
-                <p><strong>Hanmer Tours &amp; Shuttles</strong><br>03 315 7418</p>
+                <p><strong>Hanmer Tours &amp; Shuttle</strong><br>03 315 7418</p>
                 <p><strong>Hanmer Connection</strong><br>0800 242 663</p>
             </div>
         </div>
