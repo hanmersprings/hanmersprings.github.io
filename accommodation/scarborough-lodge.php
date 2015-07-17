@@ -284,7 +284,7 @@
       "position": 1,
       "item":
       {
-        "@id": "http://www.hanmersprings.org.nz/accommodation.html",
+        "@id": "http://www.hanmersprings.org.nz/accommodation.php",
         "name": "Accommodation"
       }
     },
@@ -293,7 +293,7 @@
       "position": 2,
       "item":
       {
-        "@id": "http://www.hanmersprings.org.nz/scarborough-lodge.html",
+        "@id": "http://www.hanmersprings.org.nz/scarborough-lodge.php",
         "name": "Scarborough Lodge"
       }
     }

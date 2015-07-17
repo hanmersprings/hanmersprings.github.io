@@ -42,13 +42,13 @@
         <ol class="breadcrumb">
             <li><a href="/">Home</a></li>
             <li><a href="/accommodation.php">Accommodation</a></li>
-            <li class="active">Holidays Parks &amp; Campsites</li>
+            <li class="active">Holiday Parks &amp; Campsites</li>
         </ol>
     </div>
     <div class="row">
         <div class="col-md-12">
             <h1>Hanmer Springs Holidays Parks &amp; Campsites</h1>
-            <p>There are 6 Holidays Parks &amp; Campsites in Hanmer Springs</p>
+            <p>There are 6 Holiday Parks &amp; Campsites in Hanmer Springs</p>
         </div>
     </div>
 
@@ -168,6 +168,34 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <!-- Compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.hanmersprings.org.nz/accommodation.php",
+        "name": "Accommodation"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.hanmersprings.org.nz/accommodation/holiday-parks-campsites.php",
+        "name": "Holiday Parks & Campsites"
+      }
+    }
+  ]
+}
+</script>
 
 </body>
 </html>

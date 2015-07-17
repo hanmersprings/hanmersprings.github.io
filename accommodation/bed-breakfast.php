@@ -191,5 +191,33 @@
 <!-- Compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.hanmersprings.org.nz/accommodation.php",
+        "name": "Accommodation"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.hanmersprings.org.nz/accommodation/bed-breakfast.php",
+        "name": "Bed & Breakfast"
+      }
+    }
+  ]
+}
+</script>
+
 </body>
 </html>

@@ -67,7 +67,7 @@
         </div>
         <div class="col-md-9">
 
-            <div class="row premium">
+            <!--<div class="row premium">
                 <div class="col-md-12">
                     <img src="../media/images/cartoons/bungy.gif" alt="Bungy jumper" class="img-responsive">
                     <h2>Awesome Action Adventure</h2>
@@ -80,7 +80,7 @@
                     </ol>
                 </div>
 
-            </div>
+            </div>-->
 
             <div class="row">
                 <div class="col-md-12">

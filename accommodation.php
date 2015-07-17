@@ -133,46 +133,55 @@
             <h1>Hanmer Springs Accommodation</h1>
             <p class="lead">There is accommodation in Hanmer Springs to suit all budgets and preferences. No matter where you stay
             the hospitality is warm and welcoming.</p>
+
             <div class="row" id="categories">
                 <div class="col-md-3">
+                    <a href="accommodation/apartments.php">
                     <h5>Apartments</h5>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href="accommodation/backpackers-hostels.php">
                     <h5>Backpackers</h5>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href="accommodation/bed-breakfast.php">
                     <h5>Bed &amp; Breakfast</h5>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href="accommodation/holiday-homes.php">
                     <h5>Holiday Homes</h5>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href="accommodation/holiday-parks-campsites.php">
                     <h5>Holiday Parks</h5>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href="accommodation/hotels-resorts.php">
                     <h5>Hotels &amp; Resorts</h5>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href="accommodation/luxury-retreats-lodges.php">
                     <h5>Luxury Retreats</h5>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href="accommodation/motels.php">
                     <h5>Motels</h5>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                    </a>
                 </div>
             </div>
         </div>

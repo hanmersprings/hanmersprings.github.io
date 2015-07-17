@@ -70,18 +70,84 @@
         </div>
 
         <div class="col-md-9">
-            <div class="row premium">
+            <!--<div class="row premium">
+
                 <div class="col-md-9">
                     <img src="../media/images/listings/scarboroughlodge/250x200/scarborough.jpg" alt="Scarborough Lodge - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
                     <h2><a href="scarborough-lodge.php">Scarborough Lodge</a></h2>
 
+                    <p>Scarborough Lodge is a couples-only retreat, located just 3 minutes walk from Hanmer Springs town centre
+                        and Thermal Pools. </p>
+                    <p>The air-conditioned large studio units feature large LCD TVs with over 40 satellite channels. Each apartment has a
+                        double spa bath, separate shower and a well-equipped kitchenette. Guests can relax in their own garden area complete with private BBQ.</p>
+                </div>
+                <div class="col-md-3 pull-right">
+                    <img src="http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-12599-5.png" class="pull-right" style="margin-right:0">
+                    <br><a href="http://www.booking.com/hotel/nz/scarborough-lodge.en.html?aid=837861" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                    <br><a href="scarborough-lodge.php" class="btn btn-default pull-right" style="margin-top: 5px;">Find Out More</a>
+                </div>
+
+            </div>-->
+
+            <h4>Featured Property</h4>
+            <div class="row premium">
+
+                <div class="col-md-4">
+                    <img src="../media/images/listings/scarboroughlodge/250x200/scarborough.jpg" alt="Scarborough Lodge - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
+<!--                    <span style="color: #999; border: 1px solid #dedede; padding: 5px; display: inline-block; margin-bottom: 5px; background: white; width: 250px"><strong style="color: #444;">Wonderful</strong> Rated 9.5 by 148 people</span>-->
+                </div>
+                <div class="col-md-8">
+                    <h2><a href="scarborough-lodge.php">Scarborough Lodge</a></h2>
 
 
+
+                    <hr style="margin: 5px 0; border-color: #999">
+                    <p>Couples only luxury units with King Bed and Spa Bath.</p>
+                    <hr style="margin: 5px 0; border-color: #999">
+                    <p class="lead" style="margin-bottom: 10px"><em>&ldquo;Loved this place, can thoroughly recommend.&rdquo;</em></p>
+                    <hr style="margin: 5px 0; border-color: #999">
+                    <div class="listing-content">
+                        <div class="col-md-4">
+<!--                            <span class="no"><i class="fa fa-times fa-fw"></i> Pets</span><br>-->
+                            <i class="fa fa-check fa-fw"></i> King Sized Beds<br>
+                            <i class="fa fa-check fa-fw"></i> Highspeed WiFi<br>
+                            <i class="fa fa-check fa-fw"></i> Offstreet Parking<br>
+                            <i class="fa fa-check fa-fw"></i> Spa Bath<br>
+                        </div>
+                        <div class="col-md-4">
+                            <i class="fa fa-check fa-fw"></i> Late Checkout<br>
+                            <i class="fa fa-check fa-fw"></i> Quiet & Peaceful<br>
+                            <i class="fa fa-check fa-fw"></i> Air con<br>
+                            <i class="fa fa-check fa-fw"></i> Non smoking<br>
+                        </div>
+                        <div class="col-md-4">
+                            <i class="fa fa-check fa-fw"></i> Flatscreen TV<br>
+                            <i class="fa fa-check fa-fw"></i> Sky TV<br>
+                            <i class="fa fa-check fa-fw"></i> Cooking Facilities<br>
+                            <i class="fa fa-check fa-fw"></i> Personal BBQ<br>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <hr style="margin: 5px 0; border-color: #999">
                 </div>
                 <div class="col-md-3">
+                    <img src="../media/images/listings/scarboroughlodge/189x104/unitc-scarboroughlodge.jpg" alt="Unit C, Scarborough Lodge - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
+                </div>
+                <div class="col-md-6">
+                    <p style="margin-top: 0.5em;">Scarborough Lodge is a couples-only retreat, located just 3 minutes walk from Hanmer Springs town centre.
+                        Large studio units featuring LCD TVs with 50+ Sky channels, double spa bath, separate shower and a
+                        well-equipped kitchenette. Guests can also relax in their own garden area with BBQ.
 
+                    </p>
+                </div>
+                <div class="col-md-3 pull-right">
+                    <a href="scarborough-lodge.php" class="btn btn-default pull-right" style="margin-bottom: 5px; margin-top: 5px">Find Out More</a>
+                    <a href="scarborough-lodge.php" class="btn btn-default pull-right" style="margin-bottom: 5px; clear: left">Call Us</a>
+                    <a href="http://www.booking.com/hotel/nz/hanmer-view-bed-breakfast-and-holiday-apartments.html?aid=837861" style="clear: right; margin-bottom: 5px" target="_blank" class="btn btn-default pull-right">Book Now</a>
 
                 </div>
+
             </div>
 
             <div class="row featured">
@@ -220,6 +286,34 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <!-- Compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.hanmersprings.org.nz/accommodation.php",
+        "name": "Accommodation"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.hanmersprings.org.nz/accommodation/luxury-retreats-lodges.php",
+        "name": "Luxury Retreats & Lodges"
+      }
+    }
+  ]
+}
+</script>
 
 </body>
 </html>

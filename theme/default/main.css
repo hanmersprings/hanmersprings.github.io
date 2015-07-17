@@ -384,3 +384,7 @@ div.premium {
 .package-features li {
     margin-left: 2em;
 }
+
+.listing-content span.no {
+    opacity: 0.3;
+}

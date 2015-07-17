@@ -33,6 +33,7 @@
     <script src="https://js.gleam.io/oi-Sj6j1eqk.js" async="async"></script>
 
 </head>
+
 <body id="content-page">
 
 <?php include('../snippets/navigation.html') ?>
@@ -49,8 +50,8 @@
     <div class="row">
         <div class="col-md-12">
 
-            <h1>Hanmer Springs Weather</h1>
-            <p class="lead"></p>
+
+            <iframe id="forecast_embed" type="text/html" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=-42.524138&lon=172.832877&name=Hanmer Springs&units=ca"> </iframe>
 
         </div>
     </div>

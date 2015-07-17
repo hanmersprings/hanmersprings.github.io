@@ -132,6 +132,7 @@
         <div class="col-md-7">
             <h1>Hanmer Springs Activities</h1>
             <p class="lead">No matter the time of year or what you enjoy doing, you will find plenty to do while in Hanmer Springs.</p>
+
             <div class="row" id="categories">
                 <div class="col-md-12">
                     <h5>Action</h5>

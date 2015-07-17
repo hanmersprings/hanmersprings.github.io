@@ -20,6 +20,7 @@
         loadCSS('theme/default/main.min.css');
     </script>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>document.cookie = 'resolution=' + Math.max(screen.width, screen.height) + ("devicePixelRatio" in window ? "," + devicePixelRatio : ",1") + '; path=/';</script>
     <script src="js/gleam.js" async="async"></script>
     <script>(function (i, s, o, g, r, a, m) {
@@ -52,6 +53,8 @@
         }
         ob_start("sanitize_output");
     ?>
+
+
 
 </head>
 <body>
@@ -234,6 +237,7 @@
             <!--<h4>Exclusive Package Deals: <a href="#">view all</a></h4> <div class="row"> <div class="col-md-4"> <img src="http://placehold.it/400x400?text=Stay and Play" alt="..." class="img-responsive"> </div><div class="col-md-4"> <img src="http://placehold.it/400x400?text=Stay and Dine" alt="..." class="img-responsive"> </div><div class="col-md-4"> <img src="http://placehold.it/400x400?text=Spa Getaway" alt="..." class="img-responsive"> </div></div>-->
         </div>
         <div class="col-md-5">
+            <?php include('snippets/currentweather.php') ?>
             <?php include('snippets/events.php') ?>
             <?php include('snippets/maps-guides.php') ?>
             <?php include('snippets/reviews.php') ?>
@@ -242,7 +246,7 @@
     </div>
     <?php include('snippets/footer.php') ?>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <script type="application/ld+json">
     {"@context" : "http://schema.org", "@type" : "Organization", "name" : "Hanmer Springs", "url" : "http://www.hanmersprings.org.nz", "sameAs" : [ "https://www.facebook.com/HanmerSpringsVillage", "http://www.twitter.com/hanmerspringsnz", "https://plus.google.com/110290489158528182050"]}

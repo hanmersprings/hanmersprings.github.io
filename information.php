@@ -79,7 +79,7 @@
                 </div>
                 <div class="col-md-12">
                     <h5>Useful Information</h5>
-                    <a href="information/useful-information.php"><img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left"></a>
+                    <a href="information/useful-information.php"><img src="media/images/thumbnails/200x120/business-directory.jpg" alt="Hanmer Springs business directory." class="img-responsive pull-left"></a>
                     <p>Find out about local banks, emergency services, medical facilities, internet and phone providers and everything else you may need to know while you are here.</p>
                     <p><a href="information/useful-information.php">Hanmer Springs Directory</a></p>
                 </div>

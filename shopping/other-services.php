@@ -87,24 +87,33 @@
                     <tr><td>Acupuncture</td><td>Acupuncturist</td><td>&nbsp;</td><td>027 631 6958</td></tr>
                     <tr><td>Alpine Build</td><td>Builder</td><td>17 Caverhill Close</td><td>027 437 2937</td></tr>
                     <tr><td>Alpine Test &amp; Tag</td><td>Equipment Testing</td><td>&nbsp;</td><td>0800 837 836</td></tr>
+                    <tr><td>Amazing Days</td><td>Conference & Event Specialist</td><td>42 Tarndale Place</td><td>0274 314967</td></tr>
                     <tr><td>Amuri Drainage</td><td>Drainage</td><td>&nbsp;</td><td>(03) 315 7750</td></tr>
                     <tr><td>Barbara Vague Law</td><td>Solicitor</td><td>43 Woodbank Road</td><td>(03) 315 5052</td></tr>
+                    <tr><td>Bayleys Real Estate</td><td>Real Estate</td><td>10 Conical Hill Road</td><td>(03) 315 7717</td></tr>
                     <tr><td>BNZ Bank</td><td>Bank</td><td>40 Amuri Avenue</td><td>(03) 315 7352</td></tr>
                     <tr><td>Capability Partners Limited</td><td>Tourism Consultant</td><td>31 Acheron Heights</td><td>(03) 315 5167</td></tr>
+                    <tr><td>Coughlin Contracting</td><td>Contractor</td><td>83 Woodbank Road</td><td>(03) 315 7271</td></tr>
                     <tr><td>Clearview Solutions Ltd</td><td>Accountant</td><td>Woodbank Road</td><td>(03) 315 7702</td></tr>
                     <tr><td>Coughlan Contracting</td><td>Construction</td><td>83 Woodbank Road</td><td>(03) 315 7271</td></tr>
-                    <tr><td>Dean Schwass</td><td>Painter</td><td>&nbsp;</td><td>(03) 315 5224</td></tr>
-                    <tr><td>Eye Detail</td><td>&nbsp;</td><td>4 Ensor Drive</td><td>(03) 315 7099</td></tr>
+                    <tr><td>Damian Youngman Plastering</td><td>Plasterer</td><td></td><td>027 627 3255</td></tr>
+                    <tr><td>Debbie Moody</td><td>Marriage Celebrant</td><td>42 Tarndale Place</td><td>(03) 315 5019</td></tr>
+                    <tr><td>Direct Design Landscapes</td><td>Landscape Design</td><td>&nbsp;</td><td>027 6266 566</td></tr>
+                    <tr><td>Eye Detail Ltd</td><td>Total Business Solutions</td><td>403 Woodbank Road</td><td>(03) 315 7099</td></tr>
+                    <tr><td>Fred Saunders</td><td>Joiner</td><td></td><td></td></tr>
                     <tr><td>Geen's Garden Service</td><td>Landscaping</td><td>19 Coleridge Street</td><td>(03) 315 7339</td></tr>
+                    <tr><td>Geoff Hill Contracting Ltd</td><td>Contractor</td><td>105 Argelins Road</td><td>027 228 9832</td></tr>
                     <tr><td>Hair 4 Hanmer</td><td>Hairdresser</td><td>15 Woodbank Road</td><td>(03) 315 3665</td></tr>
-                    <tr><td>Hanmer Alpine Electrical & Air Conditioning</td><td>Electrician</td><td></td><td>(03) 315 7955</td></tr>
+                    <tr><td>Hair on the Run</td><td>Hairdresser</td><td></td><td>0274 527 834</td></tr>
+                    <tr><td>Hanmer Alpine Electrical & Air Conditioning</td><td>Electrician</td><td></td><td>027 441 3101</td></tr>
                     <tr><td>Hanmer Builders</td><td>Builder</td><td>&nbsp;</td><td>027 315 9595</td></tr>
                     <tr><td>Hanmer Building Solutions Ltd</td><td>Builder</td><td>14 Coleridge Street</td><td>(03) 315 7270</td></tr>
                     <tr><td>Hanmer Electrical</td><td>Electrician</td><td>&nbsp;</td><td>(03) 315 7922</td></tr>
                     <tr><td>Hanmer Haulage 2003 Ltd</td><td>Freight</td><td>&nbsp;</td><td>(03) 315 7605</td></tr>
-                    <tr><td>Hanmer Pet Retreat</td><td>Kennel</td><td>637 Hanmer Springs Road</td><td>(03) 315 7778</td></tr>
+                    <tr><td>Hanmer Pet Retreat</td><td>Cattery & Kennels</td><td>637 Hanmer Springs Road</td><td>(03) 315 7778</td></tr>
                     <tr><td>Hanmer Refuse Services</td><td>Refuse Collection</td><td>13 Lochiel Drive</td><td>(03) 315 7337</td></tr>
                     <tr><td>Hanmer Springs Ambulance</td><td>Emergency Services</td><td>Amuri Avenue</td><td>0800 222 600</td></tr>
+                    <tr><td>Hanmer Springs Cleaning</td><td>Cleaning & General Maintenance</td><td></td><td>021 023 53476</td></tr>
                     <tr><td>Hanmer Springs Fire Brigade</td><td>Emergency Services</td><td>Amuri Avenue</td><td>(03) 315 7013</td></tr>
                     <tr><td>Hanmer Springs Hair Studio</td><td>Hairdresser</td><td>72 Jollies Pass Road</td><td>027 531 3196</td></tr>
                     <tr><td>Hanmer Springs Health Centre</td><td>Medical Centre</td><td>59 Jacks Pass Road</td><td>(03) 315 7503</td></tr>
@@ -119,25 +128,28 @@
                     <tr><td>Hanmer Springs Village News (Pinkie)</td><td>Newspaper</td><td></td><td>(03) 315 7268</td></tr>
                     <tr><td>Hanmer Storage</td><td>Storage</td><td>12 Dorset Street</td><td>(03) 315 7401</td></tr>
                     <tr><td>Hanmer Tree Care</td><td>Arborist</td><td></td><td>(03) 315 5176</td></tr>
+                    <tr><td>Harcourts Twiss Keir Realty Ltd.</td><td>Real Estate</td><td>Shop 3, 12a Conical Hill Road</td><td>(03) 315 7084</td></tr>
                     <tr><td>Hire A Gran</td><td>Baby Sitting / Child Minding</td><td>10 Devon Street</td><td>(03) 315 5257</td></tr>
-                    <tr><td>Debbie Moody</td><td>Marriage Celebrant</td><td>5 Rutherford Crescent</td><td>(03) 315 5019</td></tr>
+                    <tr><td>John Ashcroft</td><td>Travel Agent</td><td>26 Rippingale Road</td><td>(03) 315 7766</td></tr>
                     <tr><td>Mark O'Brien</td><td>Builder</td><td></td><td>027 222 5408</td></tr>
                     <tr><td>MickeyRaes WOW Sewing Designs</td><td>Wedding and Craft Supplies</td><td></td><td>027 338 6660</td></tr>
                     <tr><td>Minson Builders</td><td>Builder</td><td>38A St James Avenue</td><td>(03) 315 7775</td></tr>
+                    <tr><td>Murray Pool</td><td>Firewood Supplier</td><td></td><td></td></tr>
                     <tr><td>NZ Post</td><td>Postal Services</td><td>12 Conical Hill Road</td><td>(03) 315 7710</td></tr>
                     <tr><td>Passion Flower</td><td>Florist</td><td></td><td>(03) 315 5121</td></tr>
                     <tr><td>Pro Works</td><td>IT Consultant</td><td>60B Jacks Pass Road</td><td>(03) 315 5238</td></tr>
-                    <tr><td>Red Hot Electrical</td><td>Electrician</td><td>4 Torquay Terrace</td><td>022 104 4519</td></tr>
                     <tr><td>Rusty Carrot Catering</td><td>Catering</td><td>31 Argelins Road</td><td>(03) 315 5033</td></tr>
                     <tr><td>St Andrews Christian Fellowship</td><td>Church</td><td>1 Jollies Pass Road</td><td>(03) 315 7340</td></tr>
                     <tr><td>St Roch's Catholic Church</td><td>Church</td><td>27 Amuri Avenue</td><td>(03) 315 7089</td></tr>
+                    <tr><td>Stash Palace</td><td>Fabric craft supplies</td><td>12 Lochiel Drive</td><td>(03) 315 7778</td></tr>
                     <tr><td>Terry's</td><td>Property Maintenance</td><td>27 Amuri Avenue</td><td>(03) 315 7089</td></tr>
                     <tr><td>The Anglican Church of the Epiphany</td><td>Church</td><td>31 Jollies Pass Road</td><td>(03) 315 7221</td></tr>
                     <tr><td>The Chandler Clinic</td><td>Skin Clinic</td><td>6 Lochiel Drive</td><td>(03) 688 5015</td></tr>
                     <tr><td>The Edge Sharpening Services</td><td>Master Cutler</td><td></td><td>021 071 7036</td></tr>
-                    <tr><td>John Ashcroft</td><td>Travel Agent</td><td>26 Rippingale Road</td><td>(03) 315 7766</td></tr>
-                    <tr><td>Vilage Firewood</td><td>Firewood Supplier</td><td>68 Rippingale Road</td><td>(03) 315 7139</td></tr>
-                    <tr><td>Vilage Plumbing</td><td>Plumbing</td><td>6 Hanmer Springs Road</td><td>0800 529 736</td></tr>
+                    <tr><td>Tree Bears Nursery & Preschool</td><td>Nursery / Preschool</td><td></td><td>03 315 7749</td></tr>
+                    <tr><td>Village Firewood</td><td>Firewood Supplier</td><td>68 Rippingale Road</td><td>(03) 315 7139</td></tr>
+                    <tr><td>Village Plumbing</td><td>Plumbing</td><td>6 Hanmer Springs Road</td><td>0800 529 736</td></tr>
+                    <tr><td>Waimak Real Estate</td><td>Real Estate</td><td></td><td>027 434 7090</td></tr>
                 </tbody>
 
             </table>

@@ -71,6 +71,13 @@
 
         <div class="col-md-9">
 
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="lead">Motels in Hanmer Springs, also known as Motor Inns or Motor Lodges.</p>
+                    <p>Enjoy the convenience, comfort and privacy of one of the many Hanmer Springs Motels. Book with one of the Hanmer Springs Backpacker Motels below.</p>
+                </div>
+            </div>
+
             <div class="row featured">
 
                 <div class="col-md-12">
@@ -328,7 +335,8 @@
                         <p>The St James Premium Accommodation is 5 minutes walk from the Hanmer Springs Thermal Pools & Spa, restaurants and shops. It offers apartments with free Wi-Fi, a balcony or patio and luxury bathrooms with under floor heating.</p>
                     </div>
                     <div class="col-md-3 pull-right">
-                        <a href="http://www.booking.com/hotel/nz/the-st-james-premium-sccommodation.html?aid=837861" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                        <a href="http://www.thestjames.co.nz" onclick="trackOutboundLink('http://www.thestjames.co.nz', 'Accommodation-Motels-TheStJames (FindOutMore)'); return false;" target="_blank" class="btn btn-default pull-right">Find Out More</a>
+                        <a href="http://www.thestjames.co.nz/accommodation/" onclick="trackOutboundLink('http://www.thestjames.co.nz/accommodation/', 'Accommodation-Motels-TheStJames (BookNow)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
                     </div>
                 </div>
 
@@ -348,6 +356,34 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <!-- Compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.hanmersprings.org.nz/accommodation.php",
+        "name": "Accommodation"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.hanmersprings.org.nz/accommodation/motels.php",
+        "name": "Motels"
+      }
+    }
+  ]
+}
+</script>
 
 </body>
 </html>
