@@ -11,15 +11,20 @@
 </div>
 
 <script>
-    /**
-     * Function that tracks a click on an outbound link in Google Analytics.
-     * This function takes a valid URL string as an argument and a label
-     */
-    var trackOutboundLink = function(url, label) {
-        ga('send', 'event', 'outbound', 'click', label, {'hitCallback':
-            function () {
-                document.location = url;
-            }
-        });
-    }
+    /* Find all external links in the document... */
+    var ext_links = document.querySelectorAll('a[rel=external]');
+
+    /* Iterate through each external link in the document... */
+    [].forEach.call(ext_links ,function(a){
+        /* For each external link, assign an onclick callback: */
+        a.addEventListener('click',function(){
+            /* Google tracking code here, try this: */
+            var url = a.href;
+            ga('send', 'event', 'outbound', 'click', label, {'hitCallback':
+                function () {
+                    document.location = url;
+                }});
+        })
+    });
+
 </script>

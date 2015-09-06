@@ -135,42 +135,42 @@
 
             <div class="row" id="categories">
                 <div class="col-md-12">
-                    <h5>Action</h5>
+                    <a href="activities/action.php"><h5>Action</h5></a>
+                    <img src="media/images/thumbnails/200x120/bungy.jpg" alt="" class="img-responsive pull-left">
+                    <p>Looking for some action? Bungy jumping, canyoning, rafting, jetboating and more. There is something here to get your blood pumping. </p>
+                </div>
+                <div class="col-md-12">
+                    <a href="activities/art-culture-heritage.php"><h5>Art, Culture &amp; Heritage</h5></a>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
                     <p></p>
                 </div>
                 <div class="col-md-12">
-                    <h5>Art, Culture &amp; Heritage</h5>
+                    <a href="activities/biking-hiking-walking.php"><h5>Biking, Hiking &amp; Walking</h5></a>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
                     <p></p>
                 </div>
                 <div class="col-md-12">
-                    <h5>Biking, Hiking &amp; Walking</h5>
+                    <a href="activities/family-fun-entertainment.php"><h5>Family Fun &amp; Entertainment</h5></a>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
                     <p></p>
                 </div>
                 <div class="col-md-12">
-                    <h5>Family Fun &amp; Entertainment</h5>
+                    <a href="activities/nature-ecotourism.php"><h5>Nature &amp; Ecotourism</h5></a>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
                     <p></p>
                 </div>
                 <div class="col-md-12">
-                    <h5>Nature &amp; Ecotourism</h5>
+                    <a href="activities/sightseeing-tours.php"><h5>Sightseeing Tours</h5></a>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
                     <p></p>
                 </div>
                 <div class="col-md-12">
-                    <h5>Sightseeing Tours</h5>
+                    <a href="activities/spa-wellness.php"><h5>Spa &amp; Wellness</h5></a>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
                     <p></p>
                 </div>
                 <div class="col-md-12">
-                    <h5>Spa &amp; Wellness</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
-                </div>
-                <div class="col-md-12">
-                    <h5>Sports</h5>
+                    <a href="activities/sports.php"><h5>Sports</h5></a>
                     <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
                     <p></p>
                 </div>

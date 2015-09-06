@@ -144,7 +144,7 @@
                 <div class="col-md-3 pull-right">
                     <a href="scarborough-lodge.php" class="btn btn-default pull-right" style="margin-bottom: 5px; margin-top: 5px">Find Out More</a>
                     <a href="scarborough-lodge.php" class="btn btn-default pull-right" style="margin-bottom: 5px; clear: left">Call Us</a>
-                    <a href="http://www.booking.com/hotel/nz/hanmer-view-bed-breakfast-and-holiday-apartments.html?aid=837861" style="clear: right; margin-bottom: 5px" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                    <a href="http://book.seekom.com/front-booking/book/scarboro69/563" style="clear: right; margin-bottom: 5px" target="_blank" class="btn btn-default pull-right">Book Now</a>
 
                 </div>
 

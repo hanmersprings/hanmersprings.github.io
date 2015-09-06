@@ -109,7 +109,7 @@
                     <h3 class="listing">Hanmer Backpackers</h3>
                     <div class="col-md-3">
 
-                        <a href="http://www.booking.com/hotel/nz/hanmer-backpackers.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/hanmer-backpackers.html?aid=837861', 'Accommodation-Backpackers-Hanmer Backpackers (Booking.com)'); return false;" target="_blank">
+                        <a href="http://www.booking.com/hotel/nz/hanmer-backpackers.html?aid=837861" rel="external" target="_blank">
                             <img src="../media/images/listings/hanmerbackpackers/189x104/hanmerbackpackers.jpg" alt="Hanmer Backpackers - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
                         </a>
                     </div>
@@ -117,14 +117,14 @@
                         <p>Surrounded by mountains in the alpine village of Hanmer Springs, Jack in the Green Backpackers is in a quiet residential area, just outside the town centre.</p>
                     </div>
                     <div class="col-md-3 pull-right">
-                        <a href="http://www.booking.com/hotel/nz/hanmer-backpackers.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/hanmer-backpackers.html?aid=837861', 'Accommodation-Backpackers-Hanmer Backpackers (Booking.com)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                        <a href="http://www.booking.com/hotel/nz/hanmer-backpackers.html?aid=837861" rel="external" target="_blank" class="btn btn-default pull-right">Book Now</a>
                     </div>
                 </div>
 
                 <div class="col-md-12">
                     <h3 class="listing">Jack In The Green</h3>
                     <div class="col-md-3">
-                        <a href="http://www.booking.com/hotel/nz/le-gite-backpackers.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/le-gite-backpackers.html?aid=837861', 'Accommodation-Backpackers-Hanmer Jack In The Green (Booking.com)'); return false;" target="_blank">
+                        <a href="http://www.booking.com/hotel/nz/le-gite-backpackers.html?aid=837861" rel="external" target="_blank">
                             <img src="../media/images/listings/jackinthegreen/189x104/jackinthegreen.jpg" alt="Jack In The Green - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
                         </a>
                     </div>
@@ -133,14 +133,14 @@
                             kitchen and dining area.</p>
                     </div>
                     <div class="col-md-3 pull-right">
-                        <a href="http://www.booking.com/hotel/nz/le-gite-backpackers.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/le-gite-backpackers.html?aid=837861', 'Accommodation-Backpackers-Hanmer Jack In The Green (Booking.com)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                        <a href="http://www.booking.com/hotel/nz/le-gite-backpackers.html?aid=837861" rel="external" target="_blank" class="btn btn-default pull-right">Book Now</a>
                     </div>
                 </div>
 
                 <div class="col-md-12">
                     <h3 class="listing">Kakapo Lodge</h3>
                     <div class="col-md-3">
-                        <a href="http://www.booking.com/hotel/nz/kakapo-lodge-hanmer-springs.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/kakapo-lodge-hanmer-springs.html?aid=837861', 'Accommodation-Backpackers-Hanmer Kakapo (Booking.com)'); return false;" target="_blank">
+                        <a href="http://www.booking.com/hotel/nz/kakapo-lodge-hanmer-springs.html?aid=837861" rel="external" target="_blank">
                             <img src="../media/images/listings/kakapolodge/189x104/kakapolodge.jpg" alt="Kakapo Lodge - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
                         </a>
                     </div>
@@ -149,7 +149,7 @@
                             prepare a meal in the shared kitchen.</p>
                     </div>
                     <div class="col-md-3 pull-right">
-                        <a href="http://www.booking.com/hotel/nz/kakapo-lodge-hanmer-springs.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/kakapo-lodge-hanmer-springs.html?aid=837861', 'Accommodation-Backpackers-Hanmer Kakapo (Booking.com)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                        <a href="http://www.booking.com/hotel/nz/kakapo-lodge-hanmer-springs.html?aid=837861" rel="external" target="_blank" class="btn btn-default pull-right">Book Now</a>
                     </div>
                 </div>
             </div>
@@ -158,7 +158,7 @@
 
     </div>
 
-    <?php include('snippets/footer.php') ?>
+    <?php include('../snippets/footer.php') ?>
 
 </div>
 

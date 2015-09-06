@@ -94,7 +94,7 @@
                 <div class="col-md-6">11:00a.m</div>
             </div>
             <div class="row top-margin">
-                <a href="http://www.booking.com/hotel/nz/scarborough-lodge.html?aid=837861" target="_blank" class="btn btn-primary center" role="button">Book Online Now</a>
+                <a href="http://book.seekom.com/front-booking/book/scarboro69/563" target="_blank" class="btn btn-primary center" role="button">Book Online Now</a>
             </div>
         </div>
         <div class="col-md-4">

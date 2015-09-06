@@ -44,25 +44,29 @@
             <h1>Dining options in Hanmer Springs</h1>
             <p class="lead">You have a fantastic choice when it comes to dining in Hanmer Springs.</p>
             <div class="row" id="categories">
-                <div class="col-md-12">
-                    <h5>Bars</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                <div class="col-md-3">
+                    <a href="dining/bars.php">
+                        <h5>Bars</h5>
+                        <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    </a>
                 </div>
-                <div class="col-md-12">
-                    <h5>Cafés</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                <div class="col-md-3">
+                    <a href="dining/cafes.php">
+                        <h5>Cafés</h5>
+                        <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    </a>
                 </div>
-                <div class="col-md-12">
-                    <h5>Restaurants</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                <div class="col-md-3">
+                    <a href="dining/restaurants.php">
+                        <h5>Restaurants</h5>
+                        <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    </a>
                 </div>
-                <div class="col-md-12">
-                    <h5>Takeaways</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
-                    <p></p>
+                <div class="col-md-3">
+                    <a href="dining/takeaways.php">
+                        <h5>Takeaways</h5>
+                        <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    </a>
                 </div>
             </div>
         </div>

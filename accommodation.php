@@ -138,49 +138,49 @@
                 <div class="col-md-3">
                     <a href="accommodation/apartments.php">
                     <h5>Apartments</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    <img src="media/images/listings/hanmerapartments/189x104/hanmerapartments.jpg" alt="" class="img-responsive pull-left">
                     </a>
                 </div>
                 <div class="col-md-3">
                     <a href="accommodation/backpackers-hostels.php">
                     <h5>Backpackers</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    <img src="media/images/listings/hanmerbackpackers/189x104/hanmerbackpackers.jpg" alt="" class="img-responsive pull-left">
                     </a>
                 </div>
                 <div class="col-md-3">
                     <a href="accommodation/bed-breakfast.php">
                     <h5>Bed &amp; Breakfast</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    <img src="media/images/listings/madcowmanor/189x104/madcowmanor.jpg" alt="Mad Cow Manor is just one of seven Bed &amp; Breakfasts available in Hanmer Springs." class="img-responsive pull-left">
                     </a>
                 </div>
                 <div class="col-md-3">
                     <a href="accommodation/holiday-homes.php">
                     <h5>Holiday Homes</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    <img src="media/images/listings/hanmerholidayhomes/189x104/holidayhouse.jpg" alt="" class="img-responsive pull-left">
                     </a>
                 </div>
                 <div class="col-md-3">
                     <a href="accommodation/holiday-parks-campsites.php">
                     <h5>Holiday Parks</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    <img src="media/images/listings/mountainviewtop10/189x104/mountainviewtop10.jpg" alt="" class="img-responsive pull-left">
                     </a>
                 </div>
                 <div class="col-md-3">
                     <a href="accommodation/hotels-resorts.php">
                     <h5>Hotels &amp; Resorts</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    <img src="media/images/listings/theheritage/189x104/theheritage.jpg" alt="" class="img-responsive pull-left">
                     </a>
                 </div>
                 <div class="col-md-3">
                     <a href="accommodation/luxury-retreats-lodges.php">
                     <h5>Luxury Retreats</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    <img src="media/images/listings/scarboroughlodge/189x104/unitc-scarboroughlodge.jpg" alt="Scarborough Lodge is just one of nine Luxury Retreats &amp; Lodges available in Hanmer Springs." class="img-responsive pull-left">
                     </a>
                 </div>
                 <div class="col-md-3">
                     <a href="accommodation/motels.php">
                     <h5>Motels</h5>
-                    <img src="http://placehold.it/200x120" alt="" class="img-responsive pull-left">
+                    <img src="media/images/listings/settlersmotel/189x104/settlersmotel.jpg" alt="" class="img-responsive pull-left">
                     </a>
                 </div>
             </div>

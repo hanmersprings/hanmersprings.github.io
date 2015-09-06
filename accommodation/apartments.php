@@ -84,7 +84,7 @@
                 <div class="col-md-12">
                     <h3 class="listing">Clear Ridge Apartments</h3>
                     <div class="col-md-3">
-                        <a href="http://www.booking.com/hotel/nz/clearridge-apartments.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/clearridge-apartments.html?aid=837861', 'Accommodation-Apartments-ClearRidgeApartments (Booking.com)'); return false;" target="_blank">
+                        <a href="http://www.booking.com/hotel/nz/clearridge-apartments.html?aid=837861" rel="external" target="_blank">
                             <img src="../media/images/listings/clearridgeapartments/189x104/clearridgeapartments.jpg" alt="Clear Ridge Apartments - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
                         </a>
                     </div>
@@ -93,29 +93,16 @@
                             main village and the thermal pools</p>
                     </div>
                     <div class="col-md-3 pull-right">
-                        <a href="http://www.booking.com/hotel/nz/clearridge-apartments.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/clearridge-apartments.html?aid=837861', 'Accommodation-Apartments-ClearRidgeApartments (Booking.com)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                        <a href="http://www.booking.com/hotel/nz/clearridge-apartments.html?aid=837861" rel="external" target="_blank" class="btn btn-default pull-right">Book Now</a>
                     </div>
                 </div>
 
-                <div class="col-md-12">
-                    <h3 class="listing">Hanmer Apartments</h3>
-                    <div class="col-md-3">
-                        <a href="http://www.booking.com/hotel/nz/hanmer-springs-apartments.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/hanmer-springs-apartments.html?aid=837861', 'Accommodation-Apartments-HanmerSpringsApartments (Booking.com)'); return false;" target="_blank">
-                            <img src="../media/images/listings/hanmerapartments/189x104/hanmerapartments.jpg" alt="Hanmer Apartments - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
-                        </a>
-                    </div>
-                    <div class="col-md-6">
-                        <p>Located in Hanmer Springs, Hanmer Apartments offers free bikes. This self-catering accommodation features free WiFi.</p>
-                    </div>
-                    <div class="col-md-3 pull-right">
-                        <a href="http://www.booking.com/hotel/nz/hanmer-springs-apartments.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/hanmer-springs-apartments.html?aid=837861', 'Accommodation-Apartments-HanmerSpringsApartments (Booking.com)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
-                    </div>
-                </div>
+
 
                 <div class="col-md-12">
                     <h3 class="listing">Village Lake Apartments</h3>
                     <div class="col-md-3">
-                        <a href="http://www.booking.com/hotel/nz/village-lake-apartments.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/village-lake-apartments.html?aid=837861', 'Accommodation-Apartments-VillageLakeApartments (Booking.com)'); return false;" target="_blank">
+                        <a href="http://www.booking.com/hotel/nz/village-lake-apartments.html?aid=837861" rel="external" target="_blank">
                             <img src="../media/images/listings/villagelakeapartments/189x104/villagelakeapartments.jpg" alt="Village Lake Apartments - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
                         </a>
                     </div>
@@ -123,14 +110,14 @@
                         <p>The luxurious Village Lake Apartments are centrally located Hanmer Springs village centre only a few hundred metres from the popular thermal pools and the main street.</p>
                     </div>
                     <div class="col-md-3 pull-right">
-                        <a href="http://www.booking.com/hotel/nz/village-lake-apartments.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/village-lake-apartments.html?aid=837861', 'Accommodation-Apartments-VillageLakeApartments (Booking.com)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                        <a href="http://www.booking.com/hotel/nz/village-lake-apartments.html?aid=837861" rel="external" target="_blank" class="btn btn-default pull-right">Book Now</a>
                     </div>
                 </div>
 
                 <div class="col-md-12">
                     <h3 class="listing">Woodbank Park Cottages</h3>
                     <div class="col-md-3">
-                        <a href="http://www.booking.com/hotel/nz/woodbank-park-cottages-hanmer-springs.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/woodbank-park-cottages-hanmer-springs.html?aid=837861', 'Accommodation-Apartments-WoodbankCottages (Booking.com)'); return false;" target="_blank">
+                        <a href="http://www.booking.com/hotel/nz/woodbank-park-cottages-hanmer-springs.html?aid=837861" rel="external" target="_blank">
                             <img src="../media/images/listings/woodbankparkcottages/189x104/woodbankparkcottages.jpg" alt="Woodbank Park Cottages - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
                         </a>
                     </div>
@@ -138,7 +125,7 @@
                         <p>Featuring air conditioning, Woodbank Park Cottages offers accommodation in Hanmer Springs. Free private parking is available on site.</p>
                     </div>
                     <div class="col-md-3 pull-right">
-                        <a href="http://www.booking.com/hotel/nz/woodbank-park-cottages-hanmer-springs.html?aid=837861" onclick="trackOutboundLink('http://www.booking.com/hotel/nz/woodbank-park-cottages-hanmer-springs.html?aid=837861', 'Accommodation-Apartments-WoodbankCottages (Booking.com)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                        <a href="http://www.booking.com/hotel/nz/woodbank-park-cottages-hanmer-springs.html?aid=837861" rel="external" target="_blank" class="btn btn-default pull-right">Book Now</a>
                     </div>
                 </div>
 

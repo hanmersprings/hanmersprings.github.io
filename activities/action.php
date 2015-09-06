@@ -94,7 +94,7 @@
                 <div class="col-md-12">
                     <h3 class="listing">Bungy Jumping</h3>
                     <div class="col-md-3">
-                        <img src="http://placehold.it/200x120" alt="Bungy Jumping at Hanmer Springs, New Zealand" class="img-responsive">
+                        <img src="../media/images/thumbnails/200x120/bungy.jpg" alt="Bungy Jumping at Hanmer Springs, New Zealand" class="img-responsive">
                     </div>
                     <div class="col-md-6">
                         <p></p>
@@ -107,7 +107,7 @@
                 <div class="col-md-12">
                     <h3 class="listing">Claybird Shooting</h3>
                     <div class="col-md-3">
-                        <img src="http://placehold.it/200x120" alt="Claybird Shooting at Hanmer Springs, New Zealand" class="img-responsive">
+                        <img src="../media/images/thumbnails/200x120/claybird.jpg" alt="Claybird Shooting at Hanmer Springs, New Zealand" class="img-responsive">
                     </div>
                     <div class="col-md-6">
                         <p></p>
@@ -133,7 +133,7 @@
                 <div class="col-md-12">
                     <h3 class="listing">Quad Biking</h3>
                     <div class="col-md-3">
-                        <img src="http://placehold.it/200x120" alt="Quad Biking at Hanmer Springs, New Zealand" class="img-responsive">
+                        <img src="../media/images/thumbnails/200x120/quadbiking.jpg" alt="Quad Biking at Hanmer Springs, New Zealand" class="img-responsive">
                     </div>
                     <div class="col-md-6">
                         <p></p>
@@ -146,7 +146,7 @@
                 <div class="col-md-12">
                     <h3 class="listing">Rafting</h3>
                     <div class="col-md-3">
-                        <img src="http://placehold.it/200x120" alt="Rafting at Hanmer Springs, New Zealand" class="img-responsive">
+                        <img src="../media/images/thumbnails/200x120/rafting.jpg" alt="Rafting at Hanmer Springs, New Zealand" class="img-responsive">
                     </div>
                     <div class="col-md-6">
                         <p></p>

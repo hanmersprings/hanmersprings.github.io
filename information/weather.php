@@ -49,7 +49,7 @@
 
     <div class="row">
         <div class="col-md-12">
-
+            <h1>Hanmer Springs Weather Forecast</h1>
 
             <iframe id="forecast_embed" type="text/html" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=-42.524138&lon=172.832877&name=Hanmer Springs&units=ca"> </iframe>
 

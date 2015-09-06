@@ -41,7 +41,7 @@
 
     <div class="row">
         <div class="col-md-12">
-            <h1>Hanmer Springs Contact Information</h1>
+            <h1>Hanmer Info &amp; Marketing</h1>
 
         </div>
     </div>

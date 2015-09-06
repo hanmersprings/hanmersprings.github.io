@@ -81,6 +81,39 @@
             <div class="row featured">
 
                 <div class="col-md-12">
+                    <h3 class="listing">The St. James</h3>
+                    <div class="col-md-3">
+                        <a href="http://www.thestjames.co.nz" target="_blank">
+                            <img src="../media/images/listings/thestjames/189x104/thestjames.jpg" alt="The St. James - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="col-md-6">
+                        <p>The St James Premium Accommodation is 5 minutes walk from the Hanmer Springs Thermal Pools & Spa, restaurants and shops. It offers apartments with free Wi-Fi, a balcony or patio and luxury bathrooms with under floor heating.</p>
+                    </div>
+                    <div class="col-md-3 pull-right">
+                        <a href="http://www.thestjames.co.nz" onclick="trackOutboundLink('http://www.thestjames.co.nz', 'Accommodation-Motels-TheStJames (FindOutMore)'); return false;" target="_blank" class="btn btn-default pull-right">Find Out More</a>
+                        <a href="http://www.thestjames.co.nz/accommodation/" onclick="trackOutboundLink('http://www.thestjames.co.nz/accommodation/', 'Accommodation-Motels-TheStJames (BookNow)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <h3 class="listing">Hanmer Apartments</h3>
+                    <div class="col-md-3">
+                        <a href="http://www.hanmerapartments.co.nz" rel="external" target="_blank">
+                            <img src="../media/images/listings/hanmerapartments/189x104/hanmerapartments.jpg" alt="Hanmer Apartments - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="col-md-6">
+                        <p>Modern, affordable, spacious, 2 bedroom luxury in 4.5 star + units. FREE WIFI, FREE bike hire, FREE pool towels, FREE DVD's, disabled access, all non-smoking, private patios, SKY TV, air-conditioned, kids play area.</p>
+                    </div>
+                    <div class="col-md-3 pull-right">
+                        <a href="http://www.hanmerapartments.co.nz/accommodation.html" onclick="trackOutboundLink('http://www.hanmerapartments.co.nz/accommodation.html', 'Accommodation-Motels-HanmerApartments (FindOutMore)'); return false;" target="_blank" class="btn btn-default pull-right">Find Out More</a>
+                        <a href="http://www.hanmerapartments.co.nz" onclick="trackOutboundLink('http://www.hanmerapartments.co.nz', 'Accommodation-Motels-HanmerApartments (BookNow)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
+                    </div>
+
+                </div>
+
+                <div class="col-md-12">
                     <h3 class="listing">Alpine Garden Motel</h3>
                     <div class="col-md-3">
                         <a href="http://www.booking.com/hotel/nz/alpine-garden-motel.html?aid=837861" target="_blank">
@@ -324,21 +357,7 @@
                         <a href="http://www.booking.com/hotel/nz/spa-lodge-motel.html?aid=837861" target="_blank" class="btn btn-default pull-right">Book Now</a>
                     </div>
                 </div>
-                <div class="col-md-12">
-                    <h3 class="listing">The St. James</h3>
-                    <div class="col-md-3">
-                        <a href="http://www.booking.com/hotel/nz/the-st-james-premium-sccommodation.html?aid=837861" target="_blank">
-                            <img src="../media/images/listings/thestjames/189x104/thestjames.jpg" alt="The St. James - Accommodation at Hanmer Springs, New Zealand" class="img-responsive">
-                        </a>
-                    </div>
-                    <div class="col-md-6">
-                        <p>The St James Premium Accommodation is 5 minutes walk from the Hanmer Springs Thermal Pools & Spa, restaurants and shops. It offers apartments with free Wi-Fi, a balcony or patio and luxury bathrooms with under floor heating.</p>
-                    </div>
-                    <div class="col-md-3 pull-right">
-                        <a href="http://www.thestjames.co.nz" onclick="trackOutboundLink('http://www.thestjames.co.nz', 'Accommodation-Motels-TheStJames (FindOutMore)'); return false;" target="_blank" class="btn btn-default pull-right">Find Out More</a>
-                        <a href="http://www.thestjames.co.nz/accommodation/" onclick="trackOutboundLink('http://www.thestjames.co.nz/accommodation/', 'Accommodation-Motels-TheStJames (BookNow)'); return false;" target="_blank" class="btn btn-default pull-right">Book Now</a>
-                    </div>
-                </div>
+
 
 
 
